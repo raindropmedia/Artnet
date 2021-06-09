@@ -5,7 +5,7 @@ This example may be copied under the terms of the MIT license, see the LICENSE f
 This works with ESP8266 and ESP32 based boards
 */
 
-#include <Artnet.h>
+#include <Artnet_8port.h>
 
 const char* ssid     = "yourssid";
 const char* password = "yourpassword";

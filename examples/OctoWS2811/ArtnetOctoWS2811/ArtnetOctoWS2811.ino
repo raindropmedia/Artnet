@@ -4,7 +4,7 @@ Paul Stoffregen's excellent OctoWS2811 library: https://www.pjrc.com/teensy/td_l
 This example may be copied under the terms of the MIT license, see the LICENSE file for details
 */
 
-#include <Artnet.h>
+#include <Artnet_8port.h>
 #include <Ethernet.h>
 #include <EthernetUdp.h>
 #include <SPI.h>

@@ -1,4 +1,4 @@
-#include <Artnet.h>
+#include <Artnet_8port.h>
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>

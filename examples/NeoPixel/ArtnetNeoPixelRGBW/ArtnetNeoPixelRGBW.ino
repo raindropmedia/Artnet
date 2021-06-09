@@ -4,7 +4,7 @@ Adafruit's NeoPixel library: https://github.com/adafruit/Adafruit_NeoPixel
 This example may be copied under the terms of the MIT license, see the LICENSE file for details
 */
 
-#include <Artnet.h>
+#include <Artnet_8port.h>
 #include <Ethernet.h>
 #include <EthernetUdp.h>
 #include <SPI.h>

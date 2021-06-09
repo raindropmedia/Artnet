@@ -1,16 +1,16 @@
 {
-  "name": "Art-Net",
+  "name": "Art-Net 8port",
   "keywords": "artnet, art-net, Ethernet, DMX",
   "description": "An Art-Net library for Teensy and Arduino",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/natcl/Artnet.git"
+    "url": "https://github.com:raindropmedia/Artnet_8port.git"
   },
   "authors":
   [
     {
-      "name": "Nathanaël Lécaudé",
+      "name": "Lars Emmerich",
       "maintainer": true
     }
   ],
