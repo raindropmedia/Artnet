@@ -122,8 +122,8 @@ uint16_t Artnet::read()
 
         memset(ArtPollReply.shortname, 0, 16);
         memset(ArtPollReply.longname, 0, 64);
-        sprintf((char *)ArtPollReply.shortname, "artnet arduino");
-        sprintf((char *)ArtPollReply.longname, "Art-Net -> Arduino Bridge");
+        sprintf((char *)ArtPollReply.shortname, "Lampire Art-Net1");
+        sprintf((char *)ArtPollReply.longname, "Lampire Art-Net Bridge1");
 
         ArtPollReply.etsaman[0] = 0;
         ArtPollReply.etsaman[1] = 0;
